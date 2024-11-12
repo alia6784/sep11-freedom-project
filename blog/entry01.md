@@ -1,7 +1,7 @@
 # Entry 1
-##### X/X/XX
+##### 11/8/2024
 
-Text
+
 
 [Next](entry02.md)
 
