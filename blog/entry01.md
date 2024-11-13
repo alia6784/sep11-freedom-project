@@ -12,7 +12,13 @@ I chose Impact.js as my tool because it lets me create many different types of l
 
 ## Engineering Design Process (EDP)
 
+ we just started on the Freedom project, I am on the first stage of the Engineering Design Process which is how can I solve a problem. At the start i did not know how to actually tinker with my tool or how to pick my tool.I also had a promblem with thinking on how I am going to make the game I want but I have kindof visualize on how I want to do it.
 
+
+## Skills
+
+some skills im am starting to build is communication and how to google for information that help me understand my project. I am aslo a learing on how to ask for help throught my friends and my teacher.
+ 
 
 [Next](entry02.md)
 
