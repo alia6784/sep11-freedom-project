@@ -17,8 +17,11 @@ I chose Impact.js as my tool because it lets me create many different types of l
 
 ## Skills
 
-some skills im am starting to build is communication and how to google for information that help me understand my project. I am aslo a learing on how to ask for help throught my friends and my teacher.
- 
+some skills im am starting to build is communication and how to google for information that help me understand my project. I am aslo a learing on how to ask for help throught my friends and my teacher.And when we hit a problem, I sometimes ask my friends for help to fix it or look online for answers, trying to learn from my mistakes along the way.
+
+ ## summary
+
+ As of now, I am committed to making a shooter game using the game engine Impact.js, hoping it will be very successful. I am confident in using Impact.js to create a fun and engaging game and hope that as I consistently work on this project, my skills will continue to grow.
 
 [Next](entry02.md)
 
