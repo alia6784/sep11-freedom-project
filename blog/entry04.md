@@ -1,7 +1,7 @@
 # Entry 4
-##### X/X/XX
+##### 3/6/25
 
-Text
+
 
 [Previous](entry03.md) | [Next](entry05.md)
 
